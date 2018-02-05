@@ -5,8 +5,10 @@
 /**/*.dSYM/
 **/.temps/*
 build/*
+/.vs/
 .vscode/*
 .idea/*
+/out/
 
 # CMake Related Options
 *.a
